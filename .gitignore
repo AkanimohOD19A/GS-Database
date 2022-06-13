@@ -1,0 +1,5 @@
+# ignore json + credentials
+nu-df.csv
+json2gs.py
+gs_credentials.json
+gs2db_other_credentials.txt
